@@ -1,11 +1,19 @@
 {
   "name": "superversion",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "版本号对比工具",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webooxx/superversion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webooxx/superversion/issues"
+  },
+  "homepage": "https://github.com/webooxx/superversion#readme",
   "keywords": [
     "version",
     "diff"
